@@ -3,6 +3,7 @@
 //  CoreDataProject
 //
 //  Created by Paul Hudson on 26/11/2021.
+// Nothing added. I don't understand this project
 //
 
 import SwiftUI
